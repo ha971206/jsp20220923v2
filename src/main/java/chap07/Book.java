@@ -1,9 +1,9 @@
 package chap07;
 
-import lombok.*;
+//import lombok.*;
 
 
-@Data
+//@Data
 
 public class Book {
     private String name;
