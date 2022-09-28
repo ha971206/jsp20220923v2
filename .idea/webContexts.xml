@@ -3,7 +3,11 @@
   <component name="WebContextManager">
     <option name="state">
       <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/chap07/book/redirectEncodingTest.jsp" value="file://$PROJECT_DIR$/src/main/webapp/chap07/book" />
         <entry key="file://$PROJECT_DIR$/src/main/webapp/chap07/lecture/03forward/08from.jsp" value="file://$PROJECT_DIR$/src/main/webapp/chap07/lecture/03forward" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/chap07/lecture/04redirect/09from.jsp" value="file://$PROJECT_DIR$/src/main/webapp/chap07/lecture/04redirect" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/chap07/lecture/04redirect/10from.jsp" value="file://$PROJECT_DIR$/src/main/webapp/chap07/lecture/04redirect" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/chap07/lecture/05scope/03from.jsp" value="file://$PROJECT_DIR$/src/main/webapp/chap07/lecture/05scope" />
       </map>
     </option>
   </component>
