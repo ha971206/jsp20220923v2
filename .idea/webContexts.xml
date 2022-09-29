@@ -8,6 +8,13 @@
         <entry key="file://$PROJECT_DIR$/src/main/webapp/chap07/lecture/04redirect/09from.jsp" value="file://$PROJECT_DIR$/src/main/webapp/chap07/lecture/04redirect" />
         <entry key="file://$PROJECT_DIR$/src/main/webapp/chap07/lecture/04redirect/10from.jsp" value="file://$PROJECT_DIR$/src/main/webapp/chap07/lecture/04redirect" />
         <entry key="file://$PROJECT_DIR$/src/main/webapp/chap07/lecture/05scope/03from.jsp" value="file://$PROJECT_DIR$/src/main/webapp/chap07/lecture/05scope" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/chap09/book/modifyCookie.jsp" value="file://$PROJECT_DIR$/src/main/webapp/chap09/book" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/chap09/lecture/02readCookie.jsp" value="file://$PROJECT_DIR$/src/main/webapp/chap09/lecture" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/chap10/book/sessionInfo.jsp" value="file://$PROJECT_DIR$/src/main/webapp/chap10/book" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/chap10/lecture/sample/main.jsp" value="file://$PROJECT_DIR$/src/main/webapp/chap10/lecture/sample" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/chap10/lecture/sample2/cart.jsp" value="file://$PROJECT_DIR$/src/main/webapp/chap10/lecture/sample2" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/chap10/lecture/sample3/ad.jsp" value="file://$PROJECT_DIR$/src/main/webapp/chap10/lecture/sample3" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/chap10/lecture/sample3/main.jsp" value="file://$PROJECT_DIR$/src/main/webapp/chap10/lecture/sample3" />
       </map>
     </option>
   </component>
