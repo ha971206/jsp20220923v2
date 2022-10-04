@@ -1,13 +1,18 @@
 <%--
   Created by IntelliJ IDEA.
-  User: user
-  Date: 2022-09-28
-  Time: 오후 2:03
+  User: hyeonjong
+  Date: 2022/10/04
+  Time: 10:29
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <% request.setCharacterEncoding("utf-8"); %>
-
-<%
-    response.sendRedirect("05from.jsp?name=trump&age=30");
-%>
+<html>
+<head>
+    <title>Title</title>
+</head>
+<body>
+<p>${"guest"}</p>
+<p>${'guest'}</p>
+</body>
+</html>
